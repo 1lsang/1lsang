@@ -10,7 +10,7 @@
   </p>
 </div>
 
-<h3 align=center>Contact ☕️</h3>
+<h3 align=center>Contact ✉️</h3>
 <p align=center>
 ilsangpark.98@gmail.com
 </p>
