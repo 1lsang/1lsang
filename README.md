@@ -30,6 +30,7 @@ ilsangpark.98@gmail.com
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> &nbsp
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> &nbsp
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=white"/> &nbsp
+  <img alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> &nbsp
 </p>
 
 ## Experience
