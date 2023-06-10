@@ -17,10 +17,6 @@ ilsangpark.98@gmail.com
 
 <h3 align=center>Skill 💻</h3>
 <p align=center>
-  <img alt="" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp 
-  <img alt="" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> &nbsp
-  <img alt="" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> &nbsp
-  <br/>
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> &nbsp
   <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> &nbsp
   <img alt="tailwind_css" src ="https://img.shields.io/badge/tailwindcss-06B6D4.svg?&style=flat-square&logo=tailwindcss&logoColor=white"/> &nbsp
@@ -31,12 +27,15 @@ ilsangpark.98@gmail.com
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> &nbsp
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=white"/> &nbsp
   <img alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> &nbsp
+  <br/>  
+  <img alt="" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp 
+  <img alt="" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> &nbsp
+  <img alt="" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> &nbsp
 </p>
 
 ## Experience
 - Chung-Ang University, Electrical & Electronics Engineering [2017.03 ~ NOW]
 - Chung-Ang University, Generative AI Lab, Undergraduate Research Student [2022.07 ~ NOW]
-- 중앙대학교 캠퍼스타운 창업팀 LIVEY [2022.07 ~ NOW]
 - Google Developer Student Clubs, Member [2022.08 ~ NOW]
 - SKT FLY AI 2기 [2022.12 ~ 2023.02]
 
