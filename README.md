@@ -6,7 +6,7 @@
   </p>
   <p>
     I'm majoring in <b>Electrical & Electronics Engineering⚡️</b>. <br/>
-    I'm currently learning <b>Artificial Intelligence</b>, <b>Generative AI</b> and <b>Front-end Development.</b> 
+    I'm currently learning <b>Front-end Development.</b> 
   </p>
 </div>
 
@@ -34,15 +34,11 @@ ilsangpark.98@gmail.com
 </p>
 
 ## Experience
-- Chung-Ang University, Electrical & Electronics Engineering [2017.03 ~ NOW]
-- Chung-Ang University, Generative AI Lab, Undergraduate Research Student [2022.07 ~ NOW]
+- Chung-Ang University, Electrical & Electronics Engineering [2017.03 ~ 2024.02]
+- Chung-Ang University, Generative AI Lab, Undergraduate Research Student [2022.07 ~ 2023.09]
 - Google Developer Student Clubs, Member [2022.08 ~ NOW]
 - SKT FLY AI 2기 [2022.12 ~ 2023.02]
-
-
-
-
-
+- Hyundai Motor Group Softeer Bootcamp 2기 [2023.07 ~ 2023.08]
 
 
 
